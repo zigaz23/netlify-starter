@@ -1,4 +1,4 @@
-# Netlify Starter
+# next netlify Starter
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/ebcd2155-d1f9-4ac6-9469-cd075b0d6a94/deploy-status)](https://app.netlify.com/sites/stereo-project/deploys)
 
