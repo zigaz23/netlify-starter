@@ -29,9 +29,12 @@ You can start editing the page by modifying `pages/index.js`. The page auto-upda
 **Option one:** One-click deploy
 
 
+
+
+
 **Option two:** Manual clone
 
-1. Clone this repo: `git clone https://github.com/netlify-templates/netlify-starter.git`
+1. Clone this repo: `git clone https://github.com/cassidoo/next-netlify-starter.git`
 2. Navigate to the directory and run `npm install`
 3. Run `npm run dev`
 4. Make your changes
